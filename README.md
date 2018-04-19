@@ -1,3 +1,4 @@
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.robertograham/encodeuricomponent/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.robertograham/encodeuricomponent)
 # encodeuricomponent
 Java implementation of ECMAScript 2015 encodeUriComponent
 
